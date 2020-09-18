@@ -8,4 +8,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Encaixe as a backend Developer
 - 🌱 I’m currently learning Flutter and Nodejs
 
-https://github-readme-stats.vercel.app/api?username=zevet&show_icons=true" alt="willian2s
+<img src="https://github-readme-stats.vercel.app/api?username=zevet&show_icons=true" alt="zevet"/> 
